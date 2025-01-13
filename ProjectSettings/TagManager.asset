@@ -4,18 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - match
-  - red
-  - pink
-  - orange
-  - grey
-  - cyan
-  - darkblue
-  - green
-  - apple
-  - orangefruit
-  - watermelon
-  - banana
+  - Moveable
   layers:
   - Default
   - TransparentFX
@@ -23,7 +12,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Clickable
   - 
   - 
   - 
