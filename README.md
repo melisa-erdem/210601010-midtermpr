@@ -20,7 +20,7 @@ Meyve Eşleştirme Oyunu, oyuncuların çeşitli meyveleri eşleştirerek puan k
 Oyun, **Unity Play** üzerinden WebGL olarak yayınlanmıştır. Oyunu tarayıcınız üzerinden oynamak için aşağıdaki bağlantıyı kullanabilirsiniz:  
 [Oyun Bağlantısı](#)  
 _(Lütfen bağlantıyı yayınlandıktan sonra güncelleyiniz.)_  
-![Oyun Ekran Görüntüsü](path/to/your/screenshot.png)  
+![Oyun Ekran Görüntüsü](screnshoots/Ekran Resmi 2025-01-13 21.13.40.png)  
 
 ## Teknoloji ve Araçlar 🛠️  
 - **Oyun Motoru**: Unity  
